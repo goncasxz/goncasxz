@@ -1,4 +1,3 @@
-@@ -0,0 +1,55 @@
 # APRESENTAÇÃO PESSOAL
 
 ## **Meu nome é Vitor Samuel Gonçalves Teixeira**

@@ -10,43 +10,44 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Soroc
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:smggonca@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goncsz/)
 
-## Linguagens de Marcação que estou estudando
+## Linguagens de Marcação 
 
 | Linguagem | 
 | ----------- | 
 |![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 
 
-## Linguagens de Programação que estou estudando 
+## Linguagens de Programação  
 
 | Linguagem | 
 | --------- | 
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 
 | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 
-## Banco de Dados que estou estudando
+## Banco de Dados 
 
 | Linguagem | 
 | --------- | 
 | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | 
 
-## Cloud que estou estudando
+## Cloud 
 
 | Cloud | 
 | --------- | 
 |![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | 
 
-## Sistemas que estou estudando 
+## Sistemas 
 
-| Sistema | 
+| Sistemas | 
 | --------- | 
 | ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) | 
 | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) | 
 
 
-## Ferramentas que estou estudando
+## Ferramentas 
 
-| Ferramenta | 
+| Ferramentas | 
 | ------------- | 
 | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | 
 | ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) | 
